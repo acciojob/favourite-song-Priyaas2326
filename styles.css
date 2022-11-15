@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+h1{
+    text-align: center;
+}
+.myDiv{
+    border: 5px outset black;
+    background-color: lavender;    
+    text-align: center;
+}
